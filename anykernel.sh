@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Bocchi Kernel @GiovanYCringe
+kernel.string=Kernel by @isaquetp
 kernel.compiler=Clang 11
 do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=a505f
-device.name2=a50dd
+device.name1=moba
+device.name2=moba
 supported.versions=
 supported.patchlevels=
 '; } # end properties
